@@ -1,0 +1,8 @@
+torch
+diffusers
+transformers
+accelerate
+Pillow
+huggingface-hub
+safetensors
+streamlit
